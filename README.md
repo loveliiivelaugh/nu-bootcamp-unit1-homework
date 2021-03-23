@@ -11,10 +11,10 @@ Northwestern University coding bootcamp Unit 1 homework assignment. Make simple 
 3. ✍️ Created Github repo, pushed code, and enabled GHpages.
 4. 👨🏻‍💻 Updated `<div>` tags to more descriptive semantic tags.
 5. 📚 Organized style sheet by grouping styles by sections.
-6. ⭐ Wrote out helpful comments in both ./index.html and ./assets/css/style.css files.
+6. ⭐ Wrote out helpful comments in both *./index.html* and *./assets/css/style.css* files.
 
 ## Deployment
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/loveliiivelaugh)  GH-Pages
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/loveliiivelaugh)  **GH-Pages**
 
 [Live Site](https://loveliiivelaugh.github.io/nu-bootcamp-unit1-homework/)
