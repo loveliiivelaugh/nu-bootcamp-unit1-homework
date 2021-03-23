@@ -15,6 +15,6 @@ Northwestern University coding bootcamp Unit 1 homework assignment. Make simple 
 
 ## Deployment
 
-- GHpages
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/loveliiivelaugh) GH-Pages
 
 [Live Site](https://loveliiivelaugh.github.io/nu-bootcamp-unit1-homework/)
