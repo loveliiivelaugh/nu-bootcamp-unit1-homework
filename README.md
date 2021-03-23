@@ -4,6 +4,8 @@
 
 Northwestern University coding bootcamp Unit 1 homework assignment. Make simple accessibility improvements and corrections. Deploy simple static single page website to GitHub pages.
 
+
+![Screenshot](https://loveliiivelaugh.github.io/nu-bootcamp-unit1-homework/assets/screenshot.png)
 ## Notes
 
 1. 👨🏻‍💻 Added `alt=""` attribute to `<img>` tags.
